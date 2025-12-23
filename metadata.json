@@ -1,0 +1,8 @@
+{
+  "name": "Veritas AI Interview Analysis",
+  "description": "Analyze candidate truthfulness and stress using live video/audio multimodal Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
